@@ -1,0 +1,5 @@
+{
+  "name": "SurvivorCare - Seguimiento Oncológico Pediátrico",
+  "description": "Herramienta de apoyo a la decisión clínica para generar guías de seguimiento a largo plazo para supervivientes de cáncer infantil basadas en las recomendaciones de COG y PanCare.",
+  "requestFramePermissions": []
+}
